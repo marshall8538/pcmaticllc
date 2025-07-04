@@ -47,7 +47,7 @@ This step ensures that you not only install PC Matic already purchased but also 
 
 If you're adding PC Matic to a computer you already use:
 
-1. Open the installation file and run the setup as administrator.
+1. [Open the installation file and run the setup as administrator.](https://pcmaticllc.readthedocs.io/)
 2. During setup, enter your valid license key when asked.
 3. If you already have PC Matic installed but need to reactivate, open the software, go to **Settings** or **Account Info**, and choose to enter a new license key.
 

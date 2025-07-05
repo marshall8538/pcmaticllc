@@ -1,6 +1,9 @@
 # How to Install PC Matic with a License Key on a New or Existing Computer
 
-PC Matic is a comprehensive cybersecurity solution that offers protection against viruses, ransomware, and performance issues. Whether you're installing it for the first time or adding it to a new device, the process is straightforward—especially if you already have a license key. This guide will walk you through how to install PC Matic with a license key on both new and existing computers.
+PC Matic is a comprehensive cybersecurity solution that offers protection against viruses, ransomware, and performance issues. Whether you're installing it for the first time or adding it to a new device, the process is straightforward—especially if you already have a license key. This guide will walk you through how to **[install PC Matic with a license key](https://mylicensepage.click/install-pc-matic/)** on both new and existing computers.
+
+
+<center><a href="https://mylicensepage.click/install-pc-matic/" target="_blank" style="padding:10px 20px; background-color:#0000FF; color:white; text-decoration:none; border-radius:5px;">Get Started With PCMatic</a></center>
 
 
 ## Step-by-Step Guide: Download, Install and Activate PC Matic Already Purchased With License Key
@@ -17,6 +20,7 @@ To ensure a smooth installation, follow these initial steps:
 * **Ensure Internet Access**: An active internet connection is required to download the software and activate your license.
 * **Locate Your License Key**: Keep your PC Matic license key handy. You’ll need it during the installation process.
 
+<center><a href="https://mylicensepage.click/install-pc-matic/" target="_blank" style="padding:10px 20px; background-color:#0000FF; color:white; text-decoration:none; border-radius:5px;">Get Started With PCMatic</a></center>
 
 ### Step 2: Download PC Matic
 
